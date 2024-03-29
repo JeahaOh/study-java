@@ -183,8 +183,6 @@ public class Main {
             System.out.println(now.format(formatter));
         }
     
-        
-    
         //  역 : 문자열에서 시간 인스턴스로
         String christmas25str = "2025-12-25";
         DateTimeFormatter formatterA =
